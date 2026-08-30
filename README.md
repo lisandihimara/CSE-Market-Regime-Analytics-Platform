@@ -7,7 +7,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3f4f75)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Pytest](https://img.shields.io/badge/Tested%20with-Pytest-0A9EDC)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
 A market-analytics platform built on official **Colombo Stock Exchange (CSE)**
 statistics data: it detects market regimes (bull / crisis / recovery),
