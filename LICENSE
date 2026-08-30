@@ -1,25 +1,10 @@
-MIT License
+# Copyright
 
-Copyright (c) 2026 Lisandi Himara
+Copyright © 2026 Lisandi Himara. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Unless explicitly stated otherwise, the source code, documentation, notebooks, analysis, and other original materials in this repository may not be copied, modified, distributed, republished, or used in another project without prior written permission from the author.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This repository is publicly available for viewing and evaluation purposes, including portfolio and educational review.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The underlying Colombo Stock Exchange (CSE) data is not owned by the author and remains subject to the terms and conditions of its original source.
 
-Note: This license covers the code in this repository. The underlying CSE
-market data is subject to the Colombo Stock Exchange's own terms of use and
-is not covered by this license.
