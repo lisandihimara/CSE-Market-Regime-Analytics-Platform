@@ -311,7 +311,7 @@ The repository is publicly available for portfolio and educational review. Reuse
 
 ## 👩‍💻 Author
 
-**Lisandi Himara**
+**S.Lisandi Himara**
 BSc (Hons) Data Science & Business Analytics
 General Sir John Kotelawala Defence University (KDU)
 
