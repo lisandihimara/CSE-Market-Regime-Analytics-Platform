@@ -173,7 +173,7 @@ an implausible >100% CAR).
 
 ## 📂 Repository Structure
 
-```
+```text
 CSE-Market-Regime-Analytics-Platform/
 │
 ├── Dashboard/                     # Streamlit dashboard components
