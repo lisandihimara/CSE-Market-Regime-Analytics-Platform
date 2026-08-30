@@ -173,7 +173,7 @@ an implausible >100% CAR).
 
 ## 📂 Repository Structure
 
-```text
+```bash
 CSE-Market-Regime-Analytics-Platform/
 │
 ├── Dashboard/                     # Streamlit dashboard components
@@ -202,7 +202,7 @@ CSE-Market-Regime-Analytics-Platform/
 ├── LICENSE                        # Project usage and copyright terms
 ├── LEARNING_NOTES.md              # Phase-by-phase learning journal
 └── README.md                      # Project documentation
----
+```
 
 ## 🔍 Project Scope and Why
 
