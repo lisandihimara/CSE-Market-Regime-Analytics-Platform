@@ -174,25 +174,34 @@ an implausible >100% CAR).
 ## 📂 Repository Structure
 
 ```
-cse-market-regime-dashboard/
+CSE-Market-Regime-Analytics-Platform/
+│
+├── Dashboard/                     # Streamlit dashboard components
+│
 ├── data/
-│   ├── raw/               # original CSE source files (6 files actually used)
-│   ├── interim/           # cleaned, tidy tables (parquet + csv)
-│   └── processed/         # regime timeline, sector rankings, event study (parquet + csv)
-├── src/
-│   ├── ingestion/          # one loader per CSE source file
-│   ├── cleaning/           # shared tidy-data helpers (melt, numeric coercion)
-│   ├── features/           # regime features, sector rotation, event study, daily master panel
-│   ├── models/             # regime detection (KMeans) + event-study significance testing
-│   └── utils/              # post-load validation / sanity-check helpers
-├── notebooks/              # 5 notebooks: audit, regime, sector, event study, cross-signal
-├── tests/                  # test_pipeline.py — pytest suite
-├── app.py                  # Streamlit dashboard (run from project root)
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
-
+│   ├── raw/                       # Original CSE source data
+│   ├── interim/                   # Cleaned and tidy datasets
+│   └── processed/                 # Model and analysis outputs
+│
+├── docs/                          # Project documentation and supporting materials
+│
+├── features/                      # Feature engineering and analytical transformations
+│
+├── models/                        # Machine learning and statistical models
+│
+├── notebooks/                     # Exploratory analysis and methodology notebooks
+│
+├── src/                           # Data ingestion and preprocessing source code
+│
+├── tests/                         # Pytest test suite
+│
+├── utils/                         # Shared validation and utility functions
+│
+├── requirements.txt               # Python dependencies
+├── .gitignore                     # Files and folders excluded from Git
+├── LICENSE                        # Project usage and copyright terms
+├── LEARNING_NOTES.md              # Phase-by-phase learning journal
+└── README.md                      # Project documentation
 ---
 
 ## 🔍 Project Scope and Why
