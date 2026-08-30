@@ -118,8 +118,8 @@ Every notebook is runnable standalone via `jupyter notebook` from the
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/yourusername/cse-market-regime-dashboard.git
-cd cse-market-regime-dashboard
+git clone https://github.com/lisandihimara/CSE-Market-Regime-Analytics-Platform.git
+cd CSE-Market-Regime-Analytics-Platform
 
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
