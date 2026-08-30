@@ -306,7 +306,7 @@ advice or used as a guarantee for investment decisions.
 
 ## 📄 License
 
-Code: Copyright © 2026 Lisandi Himara. All rights reserved.
+Code: Copyright © 2026 S.Lisandi Himara. All rights reserved.
 The repository is publicly available for portfolio and educational review. Reuse, redistribution, modification or incorporation into other projects requires permission from the author. The underlying CSE market data remains subject to the Colombo Stock Exchange's terms of use.
 
 ## 👩‍💻 Author
