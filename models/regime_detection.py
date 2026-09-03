@@ -22,10 +22,10 @@ import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
-from src.features.regime_features import build_regime_features
+from features.regime_features import build_regime_features
 
-INTERIM_DIR = Path(__file__).resolve().parents[2] / "data" / "interim"
-PROCESSED_DIR = Path(__file__).resolve().parents[2] / "data" / "processed"
+INTERIM_DIR = Path(__file__).resolve().parents[1] / "data" / "interim"
+PROCESSED_DIR = Path(__file__).resolve().parents[1] / "data" / "processed"
 
 FEATURE_COLS = ["roll_return_20d", "roll_vol_20d", "roll_vol_60d", "drawdown"]
 
