@@ -1,0 +1,63 @@
+regime,sector,avg_monthly_return,n_months
+Bull / Stable Growth,Retailing,0.49820320784728755,24
+Bull / Stable Growth,Transportation,0.30318272155530085,24
+Bull / Stable Growth,Consumer Durables & Apparel,0.025211506060792647,24
+Bull / Stable Growth,Diversified Financials,0.02200261359522296,24
+Bull / Stable Growth,Utilities,0.020625197794152544,24
+Bull / Stable Growth,Real Estate M & D,0.017980554199346983,14
+Bull / Stable Growth,Commercial & Professional Services,0.013369627769904704,24
+Bull / Stable Growth,Food & Staples Retailing,0.012900988053362978,24
+Bull / Stable Growth,Consumer Services,0.012542275974891395,24
+Bull / Stable Growth,Household & Personal Products,0.010940878059583992,24
+Bull / Stable Growth,"Food, Beverage & Tobacco",0.009846276708675133,24
+Bull / Stable Growth,Materials,0.009737830229041783,24
+Bull / Stable Growth,Banks,0.008183168222500222,24
+Bull / Stable Growth,Capital Goods,0.006247756501213647,24
+Bull / Stable Growth,Real Estate,0.00013874901392965346,9
+Bull / Stable Growth,Automobiles & Components,-0.0013140003833609821,24
+Bull / Stable Growth,Energy,-0.008958962870181414,24
+Bull / Stable Growth,Health Care Equipment & Services,-0.009927700039176474,24
+Bull / Stable Growth,Insurance,-0.012024254455396727,24
+Bull / Stable Growth,Telecommunication,-0.013574812977020614,24
+Bull / Stable Growth,Software & Services,-0.03429689043684349,21
+Crisis / Sell-off,Software & Services,4.664827147598713,12
+Crisis / Sell-off,Telecommunication,0.440418847912151,15
+Crisis / Sell-off,Diversified Financials,0.3210398338577761,15
+Crisis / Sell-off,Transportation,0.2904169395092198,15
+Crisis / Sell-off,Real Estate,0.20652874974016475,15
+Crisis / Sell-off,Health Care Equipment & Services,0.19276921227292135,15
+Crisis / Sell-off,Consumer Services,0.1851579892691382,15
+Crisis / Sell-off,"Food, Beverage & Tobacco",0.16531401637746737,15
+Crisis / Sell-off,Household & Personal Products,0.15523226527992132,15
+Crisis / Sell-off,Energy,0.14549658727800008,15
+Crisis / Sell-off,Food & Staples Retailing,0.13360493972213758,15
+Crisis / Sell-off,Utilities,0.1098375483324905,15
+Crisis / Sell-off,Consumer Durables & Apparel,0.10928787439218303,15
+Crisis / Sell-off,Insurance,0.07021661840422962,15
+Crisis / Sell-off,Commercial & Professional Services,0.04839553429999415,15
+Crisis / Sell-off,Capital Goods,0.038869174524920884,15
+Crisis / Sell-off,Retailing,0.030895946451564883,15
+Crisis / Sell-off,Materials,0.017725779097024545,15
+Crisis / Sell-off,Banks,-0.0023554906726494557,15
+Crisis / Sell-off,Automobiles & Components,-0.029507449819149132,15
+Volatile Recovery,Transportation,1.0902611027715872,20
+Volatile Recovery,Energy,0.14252560665874356,20
+Volatile Recovery,Real Estate M & D,0.1057461150474367,9
+Volatile Recovery,Commercial & Professional Services,0.08536069755734041,20
+Volatile Recovery,Banks,0.0576632960036854,20
+Volatile Recovery,Utilities,0.054140032469915465,20
+Volatile Recovery,Capital Goods,0.05182948004817589,20
+Volatile Recovery,Retailing,0.05173656347797386,20
+Volatile Recovery,Insurance,0.050194743947172805,20
+Volatile Recovery,Diversified Financials,0.04860131284211387,20
+Volatile Recovery,Materials,0.04480802122014223,20
+Volatile Recovery,Automobiles & Components,0.04148455861782244,20
+Volatile Recovery,Consumer Services,0.03822728283866755,20
+Volatile Recovery,Food & Staples Retailing,0.02637267611451527,20
+Volatile Recovery,Consumer Durables & Apparel,0.016108258726468132,20
+Volatile Recovery,"Food, Beverage & Tobacco",0.015856332778541406,20
+Volatile Recovery,Software & Services,0.008086337680295106,14
+Volatile Recovery,Telecommunication,0.005966155383519567,20
+Volatile Recovery,Health Care Equipment & Services,0.0035326350257726792,20
+Volatile Recovery,Household & Personal Products,-0.017527811737802695,20
+Volatile Recovery,Real Estate,-0.04495183440310712,11
