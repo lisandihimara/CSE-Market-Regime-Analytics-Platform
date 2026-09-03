@@ -19,8 +19,8 @@ import pandas as pd
 
 from src.ingestion.load_sector_data import load_sector_market_cap
 
-PROCESSED_DIR = Path(__file__).resolve().parents[2] / "data" / "processed"
-INTERIM_DIR = Path(__file__).resolve().parents[2] / "data" / "interim"
+PROCESSED_DIR = Path(__file__).resolve().parents[1] / "data" / "processed"
+INTERIM_DIR = Path(__file__).resolve().parents[1] / "data" / "interim"
 
 ANALYSIS_START = "2021-01-01"
 ANALYSIS_END = "2025-12-31"
