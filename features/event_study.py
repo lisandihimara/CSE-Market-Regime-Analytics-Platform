@@ -24,8 +24,8 @@ import pandas as pd
 
 from src.ingestion.load_corporate_actions import load_dividends
 
-INTERIM_DIR = Path(__file__).resolve().parents[2] / "data" / "interim"
-PROCESSED_DIR = Path(__file__).resolve().parents[2] / "data" / "processed"
+INTERIM_DIR = Path(__file__).resolve().parents[1] / "data" / "interim"
+PROCESSED_DIR = Path(__file__).resolve().parents[1] / "data" / "processed"
 
 WINDOW_BEFORE = 5   # trading days before ex-date
 WINDOW_AFTER = 5    # trading days after ex-date
