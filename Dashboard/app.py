@@ -446,7 +446,7 @@ def style_car_table(df: pd.DataFrame):
     return (
         df.style
         .format({"car": "{:+.2%}", "dividend_rate": "{:.2f}"})
-        .applymap(_color, subset=["car"])
+        .map(_color, subset=["car"])
     )
 
 
@@ -661,7 +661,10 @@ elif page == "Event Study":
     study = data["event_study"]  # ==== DATA LOGIC: unchanged
 
     if study.empty:
-        empty_state("Event study data not found. Run <code>python -m src.features.event_study</code> first.")
+        empty_state(
+            "Event study output is empty. Restore <code>data/raw/Dividends.xls</code> "
+            "and run <code>python -m features.event_study</code> first."
+        )
     else:
         info_panel(
             "Cumulative Abnormal Return (CAR) = stock return &minus; ASPI return, summed over "
