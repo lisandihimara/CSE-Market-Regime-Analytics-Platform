@@ -14,9 +14,9 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 
-from src.ingestion.load_indices import load_market_indices_daily
+from src.ingestion.load_indices import load_market_indices_daily  # src.ingestion exists
 
-INTERIM_DIR = Path(__file__).resolve().parents[2] / "data" / "interim"
+INTERIM_DIR = Path(__file__).resolve().parents[1] / "data" / "interim"
 
 
 def build_regime_features(index_name: str = "All Share Price Index") -> pd.DataFrame:
